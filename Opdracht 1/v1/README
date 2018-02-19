@@ -1,3 +1,12 @@
 <h1>In dit document beschrijf ik de website en waar die bedoeld voor is.</h1>
 
 # H1
+
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
