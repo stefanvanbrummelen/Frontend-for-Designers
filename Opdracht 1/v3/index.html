@@ -10,36 +10,16 @@
 </head>
 
 <body>
-  
-  <h2>Filter DIV Elements</h2>
-
-<div class="container">
-  <div class="filterDiv cars">BMW</div>
-  <div class="filterDiv colors fruits">Orange</div>
-  <div class="filterDiv cars">Volvo</div>
-  <div class="filterDiv colors">Red</div>
-  <div class="filterDiv cars animals">Mustang</div>
-  <div class="filterDiv colors">Blue</div>
-  <div class="filterDiv animals">Cat</div>
-  <div class="filterDiv animals">Dog</div>
-  <div class="filterDiv fruits">Melon</div>
-  <div class="filterDiv fruits animals">Kiwi</div>
-  <div class="filterDiv fruits">Banana</div>
-  <div class="filterDiv fruits">Lemon</div>
-  <div class="filterDiv animals">Cow</div>
-</div>
-
    
     <header>
         <h1>De website voor afbeeldingen!</h1>
         <p>Zoek hier uw afbeelding.</p>
         <img src="https://cdn2.iconfinder.com/data/icons/picons-essentials/71/gallery-512.png" alt="header">
         <div id="myBtnContainer">
-          <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-          <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-          <button class="btn" onclick="filterSelection('animals')"> Animals</button>
-          <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
-          <button class="btn" onclick="filterSelection('colors')"> Colors</button>
+          <button class="btn active" onclick="filterSelection('all')"> Toon alles</button>
+          <button class="btn groen" onclick="filterSelection('groen')"> Groen</button>
+          <button class="btn bruin" onclick="filterSelection('bruin')"> Bruin</button>
+          <button class="btn blauw" onclick="filterSelection('blauw')"> Blauw</button>
         </div>
         
         <img src="https://github.com/CMDA/FED1/blob/gh-pages/Opdrachten/html/img/search.png?raw=true" alt="Zoek icoon">
@@ -55,28 +35,29 @@
     
 
     <main>
-            <article class="groene-boom">
+
+            <article class="filterDiv groen">
                 <h2>Groene Boom</h2>
             </article>
 
-            <article class="denneboom">
+            <article class="filterDiv groen">
                 <h2>Denneboom</h2>
             </article>
  
-            <article class="koala">
+            <article class="filterDiv bruin">
                 <h2>Koala</h2>
             </article>
 
-            <article class="koala-close-up">
+            <article class="filterDiv bruin">
                 <h2>Koala Close-up</h2>
             </article>
 
-            <article class="zeilschip">
+            <article class="filterDiv blauw">
                 <h2>Zeilschip</h2>
             </article>
         
         
-            <article class="kajuit-zeilboot">
+            <article class="filterDiv blauw">
                 <h2>Kajuit zeilschip</h2>
             </article>
 
