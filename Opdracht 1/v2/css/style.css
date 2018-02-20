@@ -365,18 +365,3 @@ credits a{
   background-color: #666;
   color: white;
 }
-
-.btn.active.groen {
-  background-color: darkgreen;
-  color: white;
-}
-
-.btn.active.bruin {
-  background-color: saddlebrown;
-  color: white;
-}
-
-.btn.active.blauw {
-  background-color: deepskyblue;
-  color: white;
-}
