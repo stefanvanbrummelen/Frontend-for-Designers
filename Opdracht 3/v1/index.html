@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Zoek afbeelding</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+   
+    <header>
+        <h1>De website voor afbeeldingen!</h1>
+        <p>Zoek hier uw afbeelding.</p>
+        <img src="https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/video-512.png" alt="header">
+        <div id="myBtnContainer">
+          <button class="btn active" onclick="filterSelection('all')"> Toon alles</button>
+          <button class="btn groen" onclick="filterSelection('groen')"> Groen</button>
+          <button class="btn bruin" onclick="filterSelection('bruin')"> Bruin</button>
+          <button class="btn blauw" onclick="filterSelection('blauw')"> Blauw</button>
+        </div>
+        
+        <img src="https://github.com/CMDA/FED1/blob/gh-pages/Opdrachten/html/img/search.png?raw=true" alt="Zoek icoon">
+        <form method="get" action="index.html">
+            <label>
+                        Zoeken
+                        <input type="search" placeholder="Zoek op naam of kleur..." name="q">
+                    </label>
+            <button type="submit">Zoek!</button>
+        </form>
+    </header>
+    
+    
+
+    <main>
+
+            <article class="filterDiv groen">
+                <h2>Groene Boom</h2>
+            </article>
+
+            <article class="filterDiv groen">
+                <h2>Denneboom</h2>
+            </article>
+ 
+            <article class="filterDiv bruin">
+                <h2>Koala</h2>
+            </article>
+
+            <article class="filterDiv bruin">
+                <h2>Koala Close-up</h2>
+            </article>
+
+            <article class="filterDiv blauw">
+                <h2>Zeilschip</h2>
+            </article>
+        
+        
+            <article class="filterDiv blauw">
+                <h2>Kajuit zeilschip</h2>
+            </article>
+
+    </main>
+
+
+    <footer>
+        <p>© Lekker films kijken</p>
+    </footer>
+    <script src="script/nav-bar.js"></script>
+
+</body>
+
+</html>

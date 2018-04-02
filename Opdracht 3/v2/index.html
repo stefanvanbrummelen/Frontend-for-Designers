@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Zoek afbeelding</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+   
+    <header>
+        <h1>De website voor afbeeldingen!</h1>
+        <p>Zoek hier uw afbeelding.</p>
+        <img src="https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/video-512.png" alt="header">
+        <div id="myBtnContainer">
+          <button class="btn active" onclick="filterSelection('all')"> Toon alles</button>
+          <button class="btn horror" onclick="filterSelection('horror')"> Horror</button>
+          <button class="btn drama" onclick="filterSelection('drama')"> Drama</button>
+          <button class="btn crime" onclick="filterSelection('crime')"> Crime</button>
+        </div>
+        
+        <img src="https://github.com/CMDA/FED1/blob/gh-pages/Opdrachten/html/img/search.png?raw=true" alt="Zoek icoon">
+        <form method="get" action="index.html">
+            <label>
+                        Zoeken
+                        <input type="search" placeholder="Zoek op naam of kleur..." name="q">
+                    </label>
+            <button type="submit">Zoek!</button>
+        </form>
+    </header>
+    
+    
+
+    <main>
+
+
+
+        
+
+    </main>
+
+
+    <footer>
+        <p>© Lekker films kijken</p>
+    </footer>
+    <script src="script/nav-bar.js"></script>
+    <script src="script/json.js"></script>
+</body>
+
+</html>

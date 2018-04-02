@@ -56,7 +56,7 @@ body {
 
 button {
     background-color: transparent;
-    border: none;
+    border: black;
 }
 
 h1 {
@@ -84,6 +84,14 @@ h1 {
 h2 {
     font-family: Roboto;
     font-size: 1em;
+}
+
+button {
+    font-family: Roboto;
+    color: aliceblue;
+    font-size: 1em;
+    text-shadow: 0.1em 0.1em grey;
+    border-bottom-style: groove;
 }
 
 article > h2 {
