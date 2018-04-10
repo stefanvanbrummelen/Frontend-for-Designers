@@ -1,6 +1,6 @@
 var httpRequest = new XMLHttpRequest();
 
-httpRequest.open("get", "http://dennistel.nl/movies");
+httpRequest.open("get", "assets/dennistel.json");
 
 httpRequest.addEventListener("load", function (e) {
     var source = e.target;
