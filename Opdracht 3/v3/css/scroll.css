@@ -1,0 +1,9 @@
+
+main div > *:nth-last-child(-n+2) {
+    transform: translateX(300px);
+    transition: transform 0.3s;
+}
+
+main.fly-in div > *:nth-last-child(-n+2) {
+    transform: translateX(0);
+}
