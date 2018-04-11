@@ -17,29 +17,34 @@ Testen op gebied van filteren. Gebruiker krijgt feedback vanuit het filtermenu d
 - (11) Strong visual hierarchies work best
 
 
-
-![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/1.article.png)
 ##### Normale state van de film
+![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/1.article.png)
+
 -----
-![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/2.hover_article.png)
 ##### Hover state van de film
+![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/2.hover_article.png)
+
 -----
-![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/3.details_article.png)
 ##### Details optie bij een film: laat genre(s) en samenvatting zien van een film (API)
+![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/3.details_article.png)
+
 -----
-![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/4.filter_genre.png)
 ##### Mogelijkheid tot filteren op genre
+![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/4.filter_genre.png)
+
 -----
-![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/8.search_genre.png)
 ##### Mogelijkheid tot zoeken op genre
+![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/8.search_genre.png)
 -----
-![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/5.loading_state.png)
+
 ##### Loading state, opacity verhogen van films bij het inladen
+![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/5.loading_state.png)
+
 -----
+##### Laatste 2 films springen in beeld bij het naar beneden scrollen
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/6.scroll_event.png)
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/7.scroll_event_show.png)
-##### Laatste 2 films springen in beeld bij het naar beneden scrollen
+
 -----
-_____________________________________________________________
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/concept_uitwerking.jpg)
 
