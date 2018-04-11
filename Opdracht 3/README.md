@@ -12,9 +12,9 @@ Voornamelijkste veranderingen zijn in de micro interacties:
 - Laatste films worden toegevoegd (UI eventlistener)
 
 Principles of User Interface Design:
-- 4. Keep users in control
-- 9. Appearance follows behavior
-- 11. Strong visual hierarchies work best
+- 4 Keep users in control
+- 9 Appearance follows behavior
+- 11 Strong visual hierarchies work best
 
 
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/article.png)
