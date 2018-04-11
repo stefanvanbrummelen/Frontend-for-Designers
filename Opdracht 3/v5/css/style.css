@@ -364,10 +364,10 @@ header form input[type="search"]{
   box-shadow: none;
   border-radius: none;
   padding: 10px;
-  border: solid 0.4em #4f5c72;
+  border: solid 0.4em #b74e4e;
 }
 header form input[type="search"]:focus{
-  border: solid 0.2em #b74e4e;
+  border: solid 0.4em #4f5c72;
   transition-duration: 0.2s;
 }
 header form button{
