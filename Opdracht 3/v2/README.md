@@ -1,3 +1,1 @@
-#### Opdracht 1 : (CASE 4)
-
-Testen op gebied van filteren. Gebruiker krijgt feedback vanuit het filtermenu dankzij kleur.
+[Website opdracht 3 v2](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v2)
