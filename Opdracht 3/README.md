@@ -46,5 +46,6 @@ Testen op gebied van filteren. Gebruiker krijgt feedback vanuit het filtermenu d
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/7.scroll_event_show.png)
 
 -----
+###### API Uitleg
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/concept_uitwerking.jpg)
 
