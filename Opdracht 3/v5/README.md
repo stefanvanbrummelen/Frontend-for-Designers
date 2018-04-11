@@ -9,4 +9,4 @@ Voornamelijkste veranderingen zijn in de micro interacties:
 - Laatste films worden toegevoegd (UI eventlistener)
 
 
-[alt text](https://https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht 3/v5/assets/images/article.png)
+[alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/article.png)
