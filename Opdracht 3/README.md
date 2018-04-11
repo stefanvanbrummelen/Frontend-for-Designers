@@ -16,7 +16,7 @@ Testen op gebied van filteren. Gebruiker krijgt feedback vanuit het filtermenu d
 - (9) Appearance follows behavior
 - (11) Strong visual hierarchies work best
 
-
+_
 
 
 ![alt text](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/assets/images/1.article.png)
