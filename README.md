@@ -9,4 +9,4 @@ In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje
 
 [Opdracht 2](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%202/v2/)
 
-[Opdracht 3](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v3/)
+[Opdracht 3](https://stefanvanbrummelen.github.io/Frontend-for-Designers/Opdracht%203/v5/)
